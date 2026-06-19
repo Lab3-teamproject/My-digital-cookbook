@@ -1,3 +1,3 @@
-# Welcome to My Digital journey #
+# Welcome to my Digital journey #
 
 ### Created by [ Serena Lim }
