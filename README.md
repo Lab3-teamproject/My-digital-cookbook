@@ -1,3 +1,3 @@
-## Welcome to my digital cookbook
+# My Digital Cookbook #
 
 ### Created by [ Serena Lim }
